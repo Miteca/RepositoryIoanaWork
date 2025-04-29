@@ -1,0 +1,24 @@
+{
+  "name": "repositoryioanawork",
+  "version": "1.0.0",
+  "description": "repository for Cypress Task- test for Automation Practice Form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miteca/RepositoryIoanaWork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miteca/RepositoryIoanaWork/issues"
+  },
+  "homepage": "https://github.com/Miteca/RepositoryIoanaWork#readme",
+  "devDependencies": {
+    "cypress": "^14.3.2",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
